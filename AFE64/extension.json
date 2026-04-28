@@ -1,0 +1,13 @@
+{
+  "name": "FE64",
+  "apiVersion": "1.0.0",
+  "author": "simshelloworld",
+  "version": "0.0.1",
+  "description": "FE64",
+  "extensions": {
+    "AFE64": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
