@@ -1,9 +1,9 @@
 {
-  "name": "FE64",
+  "name": "AFE64",
   "apiVersion": "1.0.0",
   "author": "simshelloworld",
   "version": "0.0.1",
-  "description": "FE64",
+  "description": "AFE64 - Decoder - SPI",
   "extensions": {
     "AFE64": {
       "type": "HighLevelAnalyzer",
